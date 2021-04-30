@@ -7,11 +7,7 @@ def urlrep(url):
     }
     request = ur.Request(url, headers=uh)
     response = ur.urlopen(request)
-    return response.read().decode("utf-8")
-def spider(url):
-    from lxml import etree
-    response = urlrep(url)
-    ht = etree.HTML(response)
-    list = ht.xpath("//a[@class='card-view d-flex text-decoration-none color-tertiary']/@href")
-    return list
-print(spider("https://adultsearch.com/delaware/wilmington/female-escorts"))
+    response = response.read().decode("utf-8")
+    print(response)
+    return response
+urlrep("https://adultsearch.com/delaware/wilmington/female-escorts")
