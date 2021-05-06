@@ -1,5 +1,5 @@
 # mcogdt.github.io
 
-check 0
+check 1
 
 kjdsjfkjlsdlks fdfe
