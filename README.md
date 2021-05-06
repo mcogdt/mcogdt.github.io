@@ -1,5 +1,5 @@
 # mcogdt.github.io
 
-check siowt123
+check siowt
 
 kjdsjfkjlsdlks fdfe
