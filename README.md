@@ -2,7 +2,7 @@
 
 check siow
 
-check_GUI_TN siow
+check_GUI_TN siowt
 
 kjdsjfkjlsdlks fdfe
 
