@@ -2,6 +2,8 @@
 
 check siow
 
+check_GUI_TN siow
+
 kjdsjfkjlsdlks fdfe
 
 #Mcount
